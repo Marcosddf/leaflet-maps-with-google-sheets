@@ -1,3 +1,7 @@
+Este projeto é um **fork** do projeto https://github.com/DataVizForAll/leaflet-maps-with-google-sheets, que permite apresentar dados geo-referenciados usando o LeafLet, integrado com o Google Sheets e o GitHub.
+
+----------------------
+
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
